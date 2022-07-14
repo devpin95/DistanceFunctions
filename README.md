@@ -1,4 +1,4 @@
-# Distance Functions and Prodecural Lakes
+# Distance Functions and Procedural Lakes
 
 ## Heightmap
 
